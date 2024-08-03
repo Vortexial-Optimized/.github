@@ -7,6 +7,6 @@
 
 - ## [Vanilla Optimized](https://github.com/Vanilla-Optimized/Vanilla-Optimized)
 
-# Members and their position:
+# Members and their responsibilities:
 
 - ## [chizusrevenge](https://github.com/chizusrevenge) [Owner/Modpack Updater,Creater]
