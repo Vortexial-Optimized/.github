@@ -8,4 +8,4 @@
 
 # Members and their position:
 
-- ## [chizusrevenge](https://github.com/chizusrevenge) [Owner/Modpack Updater,Creater]
+- ## [chizusrevenge](https://github.com/chizusrevenge) [Owner/Modpack Updater, Creater]
