@@ -5,7 +5,7 @@
 
 # Projects:
 
-- ## [Vanilla Optimized](https://github.com/Vanilla-Optimized/Vanilla-Optimized)
+- ## [Vortexial Optimized](https://github.com/Vortexial-Optimized/Vortexial-Optimized) (etc old name Vanilla Optimized)
 
 # Members and their responsibilities:
 
